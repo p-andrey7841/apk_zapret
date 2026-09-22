@@ -1,0 +1,55 @@
+# General DPI bypass list — Discord, CDN, streaming
+# Based on Flowseal/zapret-discord-youtube list-general.txt
+
+discord.com
+discord.gg
+discord.media
+discordapp.com
+discordapp.net
+discordcdn.com
+discordstatus.com
+cdn.discordapp.com
+media.discordapp.net
+images-ext-1.discordapp.net
+images-ext-2.discordapp.net
+dl.discordapp.net
+stable.dl2.discordapp.net
+ptb.discordapp.com
+canary.discordapp.com
+gateway.discord.gg
+streamkit.discordapp.com
+discord-attachments-uploads-prd.storage.googleapis.com
+
+# Cloudflare
+cloudflare.com
+cloudflaressl.com
+cloudflarestream.com
+cloudflarestorage.com
+workers.dev
+pages.dev
+
+# Twitch / Streaming extras
+frankerfacez.com
+betterttv.net
+7tv.app
+bttv-api.nightdev.com
+
+# Telegram
+telegram.org
+t.me
+core.telegram.org
+web.telegram.org
+desktop.telegram.org
+updates.tdesktop.com
+kws1.web.telegram.org
+kws2.web.telegram.org
+kws3.web.telegram.org
+kws4.web.telegram.org
+kws5.web.telegram.org
+
+# Steam / Gaming CDN
+steamcommunity.com
+steampowered.com
+steam-chat.com
+steamstatic.com
+akamaihd.net

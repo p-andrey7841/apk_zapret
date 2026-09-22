@@ -1,0 +1,20 @@
+# Google / YouTube DPI bypass list
+# Based on Flowseal/zapret-discord-youtube list-google.txt
+
+youtube.com
+youtu.be
+youtube-nocookie.com
+youtubei.googleapis.com
+yt3.ggpht.com
+yt4.ggpht.com
+ytimg.com
+googlevideo.com
+video.google.com
+play.google.com
+googleusercontent.com
+ggpht.com
+gstatic.com
+googleapis.com
+google.com
+google.ru
+android.googleapis.com

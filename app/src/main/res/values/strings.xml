@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZapretDroid</string>
+    <string name="status_active">Активен</string>
+    <string name="status_stopped">Остановлен</string>
+    <string name="btn_start">Запустить</string>
+    <string name="btn_stop">Остановить</string>
+    <string name="channel_name">Zapret VPN</string>
+    <string name="notif_running">ZapretDroid активен</string>
+</resources>

@@ -1,0 +1,6 @@
+# Excluded domains — bypass disabled for these even if in other lists
+# Add domains here if you want them to use normal connection
+
+# Example: local services, banking apps, etc.
+# mybank.ru
+# localservice.internal
